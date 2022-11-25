@@ -1,0 +1,321 @@
+.div {
+  display: flex;
+  flex-direction: column;
+  max-width: 1162px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.div-2 {
+  max-width: 73px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+}
+
+.div-3 {
+  max-width: 185px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+}
+
+.div-4 {
+  max-width: 94px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+}
+
+.div-5 {
+  display: flex;
+  max-width: 223px;
+  height: 198px;
+  width: 223px;
+  border-radius: 35px;
+  box-shadow: 0px 4px 8px 5px rgba(0, 0, 0, 0.25);
+  background-image: linear-gradient(
+    to left,
+    rgba(65, 239, 250, 1) 0%,
+    rgba(65, 113, 237, 1) 100%
+  );
+}
+
+.div-6 {
+  display: flex;
+  max-width: 223px;
+  height: 198px;
+  width: 223px;
+  border-radius: 35px;
+  box-shadow: 0px 4px 8px 5px rgba(0, 0, 0, 0.25);
+  background-image: linear-gradient(
+    to left,
+    rgba(94, 213, 192, 1) 0%,
+    rgba(125, 233, 240, 1) 100%
+  );
+}
+
+.div-7 {
+  display: flex;
+  max-width: 223px;
+  height: 198px;
+  width: 223px;
+  border-radius: 35px;
+  box-shadow: 0px 4px 8px 5px rgba(0, 0, 0, 0.25);
+  background-image: linear-gradient(
+    to left,
+    rgba(44, 178, 227, 1) 0%,
+    rgba(0, 255, 223, 1) 100%
+  );
+}
+
+.div-8 {
+  display: flex;
+  max-width: 223px;
+  height: 198px;
+  width: 223px;
+  border-radius: 35px;
+  box-shadow: 0px 4px 8px 5px rgba(0, 0, 0, 0.25);
+  background-image: linear-gradient(
+    to left,
+    rgba(48, 222, 159, 1) 0%,
+    rgba(36, 226, 226, 1) 100%
+  );
+}
+
+.div-9 {
+  display: flex;
+  flex-direction: column;
+  max-width: 173px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.div-10 {
+  max-width: 141px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-11 {
+  max-width: 173px;
+  margin-top: 36px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-12 {
+  display: flex;
+  flex-direction: column;
+  max-width: 133px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.div-13 {
+  max-width: 133px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-14 {
+  max-width: 120px;
+  margin-top: 36px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-15 {
+  display: flex;
+  flex-direction: column;
+  max-width: 158px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.div-16 {
+  max-width: 133px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-17 {
+  max-width: 158px;
+  margin-top: 36px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-18 {
+  display: flex;
+  max-width: 1088px;
+  height: 10px;
+  width: 1088px;
+  border-radius: 10px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.div-19 {
+  display: flex;
+  max-width: 1072px;
+  height: 10px;
+  width: 1072px;
+  border-radius: 10px;
+  background-color: rgba(184, 206, 255, 1);
+}
+
+.div-20 {
+  display: flex;
+  max-width: 1098.004150390625px;
+  height: 0px;
+  width: 1098.004150390625px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-style: solid;
+}
+
+.div-21 {
+  max-width: 145px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-22 {
+  max-width: 196px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+}
+
+.div-23 {
+  display: flex;
+  max-width: 1162px;
+  height: 1024px;
+  width: 1162px;
+  background-color: rgba(253, 253, 253, 1);
+}
+
+.div-24 {
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  flex-direction: column;
+  max-width: 116px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 116px;
+}
+
+.div-26 {
+  display: flex;
+  flex-direction: column;
+  max-width: 234px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-radius: 35px;
+  box-shadow: 0px 4px 8px 5px rgba(0, 0, 0, 0.25);
+  padding-top: 13px;
+  padding-right: 29px;
+  padding-bottom: 13px;
+  padding-left: 29px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.div-27 {
+  display: flex;
+  flex-direction: column;
+  max-width: 176px;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.div-28 {
+  max-width: 176px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-29 {
+  max-width: 61px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 14px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-30 {
+  max-width: 74px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 14px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-31 {
+  max-width: 60px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 14px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-32 {
+  max-width: 60px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 14px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-33 {
+  max-width: 60px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 14px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
