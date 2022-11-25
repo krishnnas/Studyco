@@ -1,0 +1,115 @@
+.div {
+  display: flex;
+  flex-direction: column;
+  max-width: 720px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.div-3 {
+  max-width: 57px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-4 {
+  max-width: 102px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-5 {
+  max-width: 207px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-6 {
+  max-width: 288px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 64px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-7 {
+  display: flex;
+  max-width: 720px;
+  height: 1024px;
+  width: 720px;
+  background-color: rgba(1, 111, 185, 1);
+}
+
+.div-8 {
+  display: flex;
+  max-width: 300px;
+  height: 50px;
+  width: 300px;
+  border-radius: 2px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 0px;
+  border-style: solid;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.div-9 {
+  display: flex;
+  max-width: 300px;
+  height: 50px;
+  width: 300px;
+  border-radius: 2px;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 0px;
+  border-style: solid;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.div-10 {
+  display: flex;
+  max-width: 649px;
+  height: 842px;
+  width: 649px;
+  border-radius: 111px;
+  box-shadow: 0px 100px 100px 10px rgba(11, 13, 58, 0.5299999713897705);
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 0px;
+  border-style: solid;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.div-11 {
+  max-width: 161px;
+  color: rgba(36, 146, 226, 1);
+  font-size: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-12 {
+  max-width: 73px;
+  color: rgba(36, 146, 226, 1);
+  font-size: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  font-family: "Nunito", sans-serif;
+}
+
+.div-13 {
+  display: flex;
+  max-width: 720px;
+  height: 1024px;
+  width: 720px;
+  background-color: rgba(255, 160, 71, 1);
+}
